@@ -71,7 +71,7 @@ console.log('Md Nediya  Bot connected to your whatsapp ✅🔳')
 
 let up = `Wa-Nediya BOT connected successful ✅\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/b7hkxj.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/d4i0ld.jpg` }, caption: up })
 
 }
 })
