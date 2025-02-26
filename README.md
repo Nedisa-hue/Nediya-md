@@ -5,7 +5,7 @@
  <div align="center">
      
  [![Typing SVG]()]() </div>
- <a><img src='https://files.catbox.moe/b7hkxj.jpg'/></a>
+ <a><img src=''/></a>
 <p align="center"> 
 <u>⚡ A simple WhatsApp User Bot Coded By Mr.𝙉𝙀𝘿𝙄𝙔𝘼 wedasiga ⚡</u>
 </p>
