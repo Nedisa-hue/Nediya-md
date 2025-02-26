@@ -1,3 +1,2 @@
 # Nediya-md
-https://files.catbox.moe/jdkmbj.jpg
-https://files.catbox.moe/d4i0ld.jpg
+https://cdn.giftedtech.web.id/file/xtXhi.jpg
