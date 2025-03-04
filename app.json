@@ -1,49 +1,114 @@
 {
-  "name": "Nediya MD (¤_¤) ",
-  "description": "Javascript WhatsApp bot made by Nediya wedasiga 😈🚀 ",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "name": "LARA-MD",
+  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
+  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
+    "stack": "container",
   "env": {
     "SESSION_ID": {
       "description": "Put the session-id here.",
-      "required": true
+      "required": true,
+      "value": ""
     },  
-
-    "ALIVE_IMG": {
-      "description": "https://files.catbox.moe/jdkmbj.jpg.",
-      "required": true
+    
+    "PREFIX": {
+      "description": "Set bot prefix(#,$,-!,?)",
+      "required": true,
+      "value": "."
     },
     
-    "ALIVE_MSG": {   "description": "*╭───────────╶╶╶╾⦁⦂⦁*",
-"*◈MENU Nediya_md_00◈*",
-"*╰───────────╶╶╶╾⦁⦂⦁*",
-"*👋 Hello Welcome to*",
-"ٖٖٖ⃝‌🌸⃞‌ℐ‌ ‌ ᷟ ‌ⷶ ᷞ‌ ⷶ ‌ᷜ ‌ⷷℕℯⅆⅈℽɑ-ɱⅆ🌸⃝ٖٖٖ"
-͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏
-"*╭─────────────●●►*",
-"*❖╭─────────────···▸",
-"> *TAIME*©️: 10 hours, 53 minutes, 21 seconds",
-"> *RAM USE🧬* : 103.21MB / 63276MB",
-"> NAME BOT🛡: *Nediya MD Chethiya*",
-"> *OWNER*🤴 : *wa.me/94758784885*🚀",
-">*CREATOR*👨🏻‍🔧: *Nediya MD ( Nediya wedasinga )* ",
-"> *VERSIONS🎭* :1.200.0v ",
-"*╰─────────────●●►*",
+    "MODE": {
+      "description": "select your bot work type public-private-inbox-group.",
+      "required": true,
+      "value": "public"
+    }, 
 
-"*[   PRIFIX : ( . )   ]*",
-"*╭─────────────●●►*",
-"*┋ 📜 .ALLMENU*",
-"*┋ ⚙️ .ALIVE*",
-"*╰─────────────●●►*",
-"*👨‍💻 ONLYE OWNER COOMNDS*",
-"[  94758784885 ]",
+    "AUTO_VOICE": {
+      "description": "Make it true if you want bot auto voice.",
+      "required": true,
+      "value": "true"
+    },  
 
-"*•────────────╴╴╴•⟢*",
-"> *🔘 POWER BY Nediya MD *",
-"*•────────────╴╴╴•⟢*","required": true
-    }   
+    "AUTO_READ_STATUS": {
+      "description": "Make it true if you want bot auto auto_read_status.",
+      "required": true,
+      "value": "true"
+    }, 
+    
+    "AUTO_STATUS_REPLY": {
+      "description": "Statues reply",
+      "required": true,
+      "value": "false"
+    },
+    
+    "STATUS_REPLY_MSG": {
+      "description": "Statues reply msg",
+      "required": true,
+      "value": "*_`AUTO STATUS JUST NOW SEEN BY LARA MD`_*"
+    },
+    
+    "AUTO_STATUS_REACT": {
+      "description": "Make it tru status auto react to any emojis",
+      "required": true,
+      "value": "true"
+    },
+    
+    "FAKE_RECORDING": {
+      "description": "Make it true if you want bot fake record.",
+      "required": true,
+      "value": "true"
+    },
+    
+    "AUTO_TYPING": {
+      "description": "Make it true if you want bot auto typing",
+      "required": true,
+      "value": "true"
+    },
+
+    "AUTO_REACT": {
+      "description": "Make it true if you want bot AutoReact.",
+      "required": true,
+      "value": "false"
+    },
+    
+    "ANTI_LINK": {
+      "description": "Group link shear not allowed and kick out user",
+      "required": true,
+      "value": "true"
+    },
+    
+    "ANTI_BAD": {
+      "description": "Bad word not allowed",
+      "required": true,
+      "value": "true"
+    },
+    
+    "READ_MESSAGE": {
+      "description": "Auto read new messages",
+      "required": true,
+      "value": "false"
+    },
+    
+    "ALWAYS_ONLINE": {
+      "description": "Make it true if show you are always online it false if show your last seen",
+      "required": true,
+      "value": "false"
+    },
+    
+    "ANTI_DELETE": {
+      "description": "Delete massages show",
+      "required": true,
+      "value": "true"
+    },
+    
+    "INBOX_BLOCK": {
+      "description": "Inbox Auto block",
+      "required": true,
+      "value": "false"
+    }
+
 },
 
      "buildpacks": [
