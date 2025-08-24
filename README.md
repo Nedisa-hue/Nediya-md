@@ -9,7 +9,7 @@ comming soon new update...
 ---
 
 ```
-NEDIYA-MD BY MR Nediya OFC💜 | HASHAN-MD VERSION 1.1.1
+NEDIYA-MD BY MR Nediya OFC💜 | NEDIYA-MD VERSION 1.1.1
 ```
 
 --- 
@@ -22,22 +22,3 @@ NEDIYA-MD BY MR Nediya OFC💜 | HASHAN-MD VERSION 1.1.1
 <p>
 <a href="https://wa.me/+94715734793"
 
-<p align="left">  
-<a href='https://asitha.top/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
-</p>  <p align="left">  
-<a href='https://asitha.top/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
-</p>  
-
-
-🚀 NEDIYA-MD WHATSAPP BOT
-
-> Deploy on Heroku
-
-
-
-<p align="left">  
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Hashan000-1/WHITE-MD/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
-</p>
-
-
-> POWERED BY NEDIYA-MD V1 ⚡
