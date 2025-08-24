@@ -1,9 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=HASHAN-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=NEDIYA-MD" alt="Typing SVG" /></a>
   </p>
   
 ---  
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=HASHAN-MD;MR+HASHIYA+OFC;THANKS+FOR+USING" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=HASHAN-MD;MR+NEDIYA+OFC;THANKS+FOR+USING" alt="Typing SVG" /></a>
 </p>
 comming soon new update...
 ---
