@@ -14,7 +14,6 @@ NEDIYA-MD BY MR Nediya OFC💜 | NEDIYA-MD VERSION 1.1.1
 
 --- 
 
-<a><img src='https://i.ibb.co/VYkymQbF/2638.jpg'/></a>
 
 ---
 
@@ -44,7 +43,7 @@ NEDIYA-MD BY MR Nediya OFC💜 | NEDIYA-MD VERSION 1.1.1
 </p>  
 
 
-🚀 HASHAN-MD WHATSAPP BOT
+🚀 NEDIYA-MD WHATSAPP BOT
 
 > Deploy on Heroku
 
