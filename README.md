@@ -13,21 +13,16 @@ NEDIYA-MD BY MR Nediya OFC💜 | NEDIYA-MD VERSION 1.1.1
 ```
 
 --- 
-
+<a><img src='https://i.ibb.co/VYkymQbF/2638.jpg'/></a>
 
 ---
 
 <p> <b>Connect With me:</b></p>
 <p>
 <a href="https://wa.me/+94715734793"
-<a><img src='https://i.ibb.co/Kjq97rcG/3575.jpg'/></a>
+<a><img 
 
 ---
-
-<p> <b>Connect With me:</b></p>
-<p>
-<a href="https://wa.me/+94715865463"
-
 
 > ඔබ whatsapp එකට ලින්ක් කරගත්තට පස්සෙ සීසන් එකේ ASITHA-MD~ මේ කෑල්ල කපා ඉවත් කරන්න නැත්නම් දෝශ ඇති විය හැක... 🫶😙
 
