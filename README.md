@@ -21,3 +21,44 @@ NEDIYA-MD BY MR Nediya OFC💜 | NEDIYA-MD VERSION 1.1.1
 <p> <b>Connect With me:</b></p>
 <p>
 <a href="https://wa.me/+94715734793"
+<a><img src='https://i.ibb.co/Kjq97rcG/3575.jpg'/></a>
+
+---
+
+<p> <b>Connect With me:</b></p>
+<p>
+<a href="https://wa.me/+94715865463"
+
+
+> ඔබ whatsapp එකට ලින්ක් කරගත්තට පස්සෙ සීසන් එකේ ASITHA-MD~ මේ කෑල්ල කපා ඉවත් කරන්න නැත්නම් දෝශ ඇති විය හැක... 🫶😙
+
+
+> Get Pair Code (Session ID)
+
+
+
+<p align="left">  
+<a href='https://asitha.top/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
+</p>  <p align="left">  
+<a href='https://asitha.top/pair' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=codefactor&logoColor=white'/></a>  
+</p>  
+
+
+🚀 HASHAN-MD WHATSAPP BOT
+
+> Deploy on Heroku
+
+
+
+<p align="left">  
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Hashan000-1/WHITE-MD/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
+</p>
+
+# OUR BOT CREATE TEAM
+
+*MR NEDIYAH </>*
+
+*THE CODER CHETHIYAH*
+
+
+> POWERED BY NEDIYA-MD V1 ⚡
