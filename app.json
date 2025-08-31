@@ -1,9 +1,9 @@
 {
-  "name": "MD chethiya (¤_¤) ",
-  "description": "Javascript WhatsApp bot made by chethiya wedasiga 😈🚀 ",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "name": "MD Nediya (¤_¤) ",
+  "description": "Javascript WhatsApp bot made by imin nedisa 😈🚀 ",
+  "logo": "https://files.catbox.moe/secl9d.jpg",
   "keywords": ["bot"],
-  "success_url": "/",
+  "success_url": ".",
 
   "env": {
     "SESSION_ID": {
@@ -12,23 +12,23 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "https://i.ibb.co/tTfSqRbc/82.jpg.",
+      "description": "https://files.catbox.moe/secl9d.jpg",
       "required": true
     },
     
     "ALIVE_MSG": {   "description": "*╭───────────╶╶╶╾⦁⦂⦁*",
-"*◈MENU MD_Chethiya_00◈*",
+"*◈MENU MD_Nediya_00◈*",
 "*╰───────────╶╶╶╾⦁⦂⦁*",
 "*👋 Hello Welcome to*",
-"~`穴 ༺ KD᭄ chethiya 穴༺`~"
+"~`穴 ༺ KD᭄ Nediya 🥵🤍" 穴༺`~"
 ͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏
 "*╭─────────────●●►*",
 "*❖╭─────────────···▸",
 "> *TAIME*©️: 10 hours, 53 minutes, 21 seconds",
 "> *RAM USE🧬* : 103.21MB / 63276MB",
-"> NAME BOT🛡: *MD Chethiya*",
-"> *OWNER*🤴 : *wa.me/94702484047*🚀",
-">*CREATOR*👨🏻‍🔧: *CYBER MD ( chethiya wedasinga )* ",
+"> NAME BOT🛡: *MD Nediya*",
+"> *OWNER*🤴 : *wa.me/94761207139*🚀",
+">*CREATOR*👨🏻‍🔧: *CYBER MD ( Ilmin Nedisa )* ",
 "> *VERSIONS🎭* :1.200.0v ",
 "*╰─────────────●●►*",
 
@@ -38,18 +38,18 @@
 "*┋ ⚙️ .ALIVE*",
 "*╰─────────────●●►*",
 "*👨‍💻 ONLYE OWNER COOMNDS*",
-"[  94702484047 ]",
+"[  No 😹 ]",
 
 "*•────────────╴╴╴•⟢*",
-"> *🔘 POWER BY MD chethiya*",
+"> *🔘 POWER BY MD Nediya🥵🤍"*",
 "*•────────────╴╴╴•⟢*","required": true
     }   
 },
 
      "buildpacks": [
         {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+            "url": "https://github.com/Nedisa-hue/heroku-buildpack-nodejs.git"
         }
      ],
-  "stack": "heroku-24"
+  "stack": "heroku-24❗"
 }
