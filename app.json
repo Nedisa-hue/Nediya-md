@@ -1,0 +1,55 @@
+{
+  "name": "MD chethiya (¤_¤) ",
+  "description": "Javascript WhatsApp bot made by chethiya wedasiga 😈🚀 ",
+  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    },  
+
+    "ALIVE_IMG": {
+      "description": "https://i.ibb.co/tTfSqRbc/82.jpg.",
+      "required": true
+    },
+    
+    "ALIVE_MSG": {   "description": "*╭───────────╶╶╶╾⦁⦂⦁*",
+"*◈MENU MD_Chethiya_00◈*",
+"*╰───────────╶╶╶╾⦁⦂⦁*",
+"*👋 Hello Welcome to*",
+"~`穴 ༺ KD᭄ chethiya 穴༺`~"
+͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏
+"*╭─────────────●●►*",
+"*❖╭─────────────···▸",
+"> *TAIME*©️: 10 hours, 53 minutes, 21 seconds",
+"> *RAM USE🧬* : 103.21MB / 63276MB",
+"> NAME BOT🛡: *MD Chethiya*",
+"> *OWNER*🤴 : *wa.me/94702484047*🚀",
+">*CREATOR*👨🏻‍🔧: *CYBER MD ( chethiya wedasinga )* ",
+"> *VERSIONS🎭* :1.200.0v ",
+"*╰─────────────●●►*",
+
+"*[   PRIFIX : ( . )   ]*",
+"*╭─────────────●●►*",
+"*┋ 📜 .ALLMENU*",
+"*┋ ⚙️ .ALIVE*",
+"*╰─────────────●●►*",
+"*👨‍💻 ONLYE OWNER COOMNDS*",
+"[  94702484047 ]",
+
+"*•────────────╴╴╴•⟢*",
+"> *🔘 POWER BY MD chethiya*",
+"*•────────────╴╴╴•⟢*","required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
