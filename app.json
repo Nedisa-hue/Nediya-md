@@ -51,5 +51,3 @@
             "url": "https://github.com/Nedisa-hue/heroku-buildpack-nodejs.git"
         }
      ],
-  "stack": "heroku-24"
-}
